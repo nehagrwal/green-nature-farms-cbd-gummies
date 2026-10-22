@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/green-nature-farms-cbd-gummies/sitemap.xml
+Sitemap: https://green-nature-farms-cbd-gummies.vercel.app/sitemap-vercel.xml
+Sitemap: https://green-nature-farms-cbd-gummies.pages.dev/sitemap-cloudflare.xml
